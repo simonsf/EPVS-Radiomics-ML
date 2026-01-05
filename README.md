@@ -1,7 +1,6 @@
 # EPVS-Radiomics-ML
 Python code for statistical analysis and ML modeling associated with the manuscript on EPVS radiomics, cognitive impairment, and sleep disturbance
 
-# Radiomics & Statistical Analysis Pipeline
 A complete data analysis pipeline for EPVS feature selection, machine learning interpretation, and statistical validation, including Python-based radiomics/SHAP analysis and R-based statistical analysis scripts. All analysis scripts are provided with **corresponding supporting data tables** for direct run.
 
 ## 📂 Project Overview
